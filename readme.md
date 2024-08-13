@@ -4,9 +4,9 @@ Replace `<your_account>` with your Github username and copy the links to Pull Re
 - [TEST REPORT LINK](https://<your_account>.github.io/layout_catalog/report/html_report/)
 
 > Follow [this instruction](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
-___
+____
 > Write styles in `src/styles/main.scss` instead of `src/style.css`.
-___
+____
 
 ## ❗️❗️❗️ DON'T FORGET TO PROOFREAD YOUR CODE WITH [CHECKLIST](https://github.com/mate-academy/layout_catalog/blob/master/checklist.md) BEFORE SENDING YOUR PULL REQUEST❗️❗️❗️
 
